@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的倉庫 | Neng Yi</title>
+  <icon>https://nengyi1024.github.io/HexoBlog/icon.png</icon>
+  <subtitle>一山還有一山高&amp;#44;蘿蔔還有蘿蔔糕</subtitle>
+  <link href="https://nengyi1024.github.io/HexoBlog/atom.xml" rel="self"/>
+  
+  <link href="https://nengyi1024.github.io/HexoBlog/"/>
+  <updated>2021-11-21T14:24:01.109Z</updated>
+  <id>https://nengyi1024.github.io/HexoBlog/</id>
+  
+  <author>
+    <name>Neng Yi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ES6~ES12介紹</title>
+    <link href="https://nengyi1024.github.io/HexoBlog/2021/11/20/ES6-ES12%E4%BB%8B%E7%B4%B9/"/>
+    <id>https://nengyi1024.github.io/HexoBlog/2021/11/20/ES6-ES12%E4%BB%8B%E7%B4%B9/</id>
+    <published>2021-11-20T09:33:51.000Z</published>
+    <updated>2021-11-21T14:24:01.109Z</updated>
+    
+    
+    <summary type="html">ES6~ES12各本版新增介紹</summary>
+    
+    
+    
+    <category term="javascript" scheme="https://nengyi1024.github.io/HexoBlog/categories/javascript/"/>
+    
+    
+    <category term="web" scheme="https://nengyi1024.github.io/HexoBlog/tags/web/"/>
+    
+    <category term="javascript" scheme="https://nengyi1024.github.io/HexoBlog/tags/javascript/"/>
+    
+    <category term="ES6" scheme="https://nengyi1024.github.io/HexoBlog/tags/ES6/"/>
+    
+  </entry>
+  
+</feed>
