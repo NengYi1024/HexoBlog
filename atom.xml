@@ -6,7 +6,7 @@
   <link href="https://nengyi1024.github.io/HexoBlog/atom.xml" rel="self"/>
   
   <link href="https://nengyi1024.github.io/HexoBlog/"/>
-  <updated>2021-11-23T13:22:24.076Z</updated>
+  <updated>2021-12-08T09:52:13.599Z</updated>
   <id>https://nengyi1024.github.io/HexoBlog/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue3使用筆記</title>
+    <link href="https://nengyi1024.github.io/HexoBlog/2021/12/07/Vue3%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/"/>
+    <id>https://nengyi1024.github.io/HexoBlog/2021/12/07/Vue3%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/</id>
+    <published>2021-12-07T07:05:30.000Z</published>
+    <updated>2021-12-08T09:52:13.599Z</updated>
+    
+    
+    <summary type="html">Vue3改版寫法</summary>
+    
+    
+    
+    <category term="vue" scheme="https://nengyi1024.github.io/HexoBlog/categories/vue/"/>
+    
+    
+    <category term="前端" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="web" scheme="https://nengyi1024.github.io/HexoBlog/tags/web/"/>
+    
+    <category term="vue.js" scheme="https://nengyi1024.github.io/HexoBlog/tags/vue-js/"/>
+    
+    <category term="vue3" scheme="https://nengyi1024.github.io/HexoBlog/tags/vue3/"/>
+    
+    <category term="vue cli" scheme="https://nengyi1024.github.io/HexoBlog/tags/vue-cli/"/>
+    
+  </entry>
   
   <entry>
     <title>ES6~ES12介紹</title>
