@@ -6,7 +6,7 @@
   <link href="https://nengyi1024.github.io/HexoBlog/atom.xml" rel="self"/>
   
   <link href="https://nengyi1024.github.io/HexoBlog/"/>
-  <updated>2021-12-08T09:52:13.599Z</updated>
+  <updated>2021-12-10T10:00:45.190Z</updated>
   <id>https://nengyi1024.github.io/HexoBlog/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python學習(一)</title>
+    <link href="https://nengyi1024.github.io/HexoBlog/2021/12/09/Python%E5%AD%B8%E7%BF%92%E4%B8%80/"/>
+    <id>https://nengyi1024.github.io/HexoBlog/2021/12/09/Python%E5%AD%B8%E7%BF%92%E4%B8%80/</id>
+    <published>2021-12-09T09:10:41.000Z</published>
+    <updated>2021-12-10T10:00:45.190Z</updated>
+    
+    
+    <summary type="html">python入門介紹</summary>
+    
+    
+    
+    <category term="python" scheme="https://nengyi1024.github.io/HexoBlog/categories/python/"/>
+    
+    
+    <category term="python" scheme="https://nengyi1024.github.io/HexoBlog/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Vue3使用筆記</title>
     <link href="https://nengyi1024.github.io/HexoBlog/2021/12/07/Vue3%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/"/>
     <id>https://nengyi1024.github.io/HexoBlog/2021/12/07/Vue3%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/</id>
     <published>2021-12-07T07:05:30.000Z</published>
-    <updated>2021-12-08T09:52:13.599Z</updated>
+    <updated>2021-12-10T09:30:30.657Z</updated>
     
     
     <summary type="html">Vue3改版寫法</summary>
