@@ -6,7 +6,7 @@
   <link href="https://nengyi1024.github.io/HexoBlog/atom.xml" rel="self"/>
   
   <link href="https://nengyi1024.github.io/HexoBlog/"/>
-  <updated>2021-12-12T14:11:02.718Z</updated>
+  <updated>2021-12-13T09:38:24.306Z</updated>
   <id>https://nengyi1024.github.io/HexoBlog/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>PHP常用函數</title>
+    <link href="https://nengyi1024.github.io/HexoBlog/2021/12/13/PHP%E5%B8%B8%E7%94%A8%E5%87%BD%E5%BC%8F/"/>
+    <id>https://nengyi1024.github.io/HexoBlog/2021/12/13/PHP%E5%B8%B8%E7%94%A8%E5%87%BD%E5%BC%8F/</id>
+    <published>2021-12-13T09:14:22.000Z</published>
+    <updated>2021-12-13T09:38:24.306Z</updated>
+    
+    
+    <summary type="html">php常用函數</summary>
+    
+    
+    
+    <category term="php" scheme="https://nengyi1024.github.io/HexoBlog/categories/php/"/>
+    
+    
+    <category term="前端" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="web" scheme="https://nengyi1024.github.io/HexoBlog/tags/web/"/>
+    
+    <category term="後端" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%BE%8C%E7%AB%AF/"/>
+    
+    <category term="php" scheme="https://nengyi1024.github.io/HexoBlog/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Python學習(一)</title>
     <link href="https://nengyi1024.github.io/HexoBlog/2021/12/09/Python%E5%AD%B8%E7%BF%92%E4%B8%80/"/>
     <id>https://nengyi1024.github.io/HexoBlog/2021/12/09/Python%E5%AD%B8%E7%BF%92%E4%B8%80/</id>
     <published>2021-12-09T09:10:41.000Z</published>
-    <updated>2021-12-12T14:11:02.718Z</updated>
+    <updated>2021-12-13T09:32:43.899Z</updated>
     
     
     <summary type="html">Python入門介紹</summary>
@@ -67,7 +92,7 @@
     <link href="https://nengyi1024.github.io/HexoBlog/2021/11/20/ES6-ES12%E4%BB%8B%E7%B4%B9/"/>
     <id>https://nengyi1024.github.io/HexoBlog/2021/11/20/ES6-ES12%E4%BB%8B%E7%B4%B9/</id>
     <published>2021-11-20T09:33:51.000Z</published>
-    <updated>2021-11-23T13:22:24.076Z</updated>
+    <updated>2021-12-13T09:28:07.311Z</updated>
     
     
     <summary type="html">ES6~ES12各本版新增介紹</summary>
