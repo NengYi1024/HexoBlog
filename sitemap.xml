@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/2021/12/13/PHP%E5%B8%B8%E7%94%A8%E5%87%BD%E5%BC%8F/</loc>
+    <loc>https://nengyi1024.github.io/HexoBlog/2021/12/09/Python%E5%AD%B8%E7%BF%92%E4%B8%80/</loc>
     
     <lastmod>2021-12-14</lastmod>
     
   </url>
   
   <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/2021/12/09/Python%E5%AD%B8%E7%BF%92%E4%B8%80/</loc>
+    <loc>https://nengyi1024.github.io/HexoBlog/2021/12/13/PHP%E5%B8%B8%E7%94%A8%E5%87%BD%E5%BC%8F/</loc>
     
     <lastmod>2021-12-14</lastmod>
     
@@ -74,7 +74,7 @@
 
   
   <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/tags/Python/</loc>
+    <loc>https://nengyi1024.github.io/HexoBlog/tags/python/</loc>
     <lastmod>2021-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -146,7 +146,7 @@
 
   
   <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/categories/Python/</loc>
+    <loc>https://nengyi1024.github.io/HexoBlog/categories/python/</loc>
     <lastmod>2021-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
