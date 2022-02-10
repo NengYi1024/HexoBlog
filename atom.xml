@@ -6,7 +6,7 @@
   <link href="https://nengyi1024.github.io/HexoBlog/atom.xml" rel="self"/>
   
   <link href="https://nengyi1024.github.io/HexoBlog/"/>
-  <updated>2022-02-10T11:53:18.912Z</updated>
+  <updated>2022-02-10T15:25:58.457Z</updated>
   <id>https://nengyi1024.github.io/HexoBlog/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>spinach腳本處理</title>
+    <link href="https://nengyi1024.github.io/HexoBlog/2022/02/10/spinach%E8%85%B3%E6%9C%AC%E8%99%95%E7%90%86/"/>
+    <id>https://nengyi1024.github.io/HexoBlog/2022/02/10/spinach%E8%85%B3%E6%9C%AC%E8%99%95%E7%90%86/</id>
+    <published>2022-02-10T14:42:24.000Z</published>
+    <updated>2022-02-10T15:25:58.457Z</updated>
+    
+    
+    <summary type="html">協助後端跑取python腳本</summary>
+    
+    
+    
+    <category term="工作" scheme="https://nengyi1024.github.io/HexoBlog/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="jumpserver" scheme="https://nengyi1024.github.io/HexoBlog/tags/jumpserver/"/>
+    
+    <category term="常見" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%B8%B8%E8%A6%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>域名問題</title>
+    <link href="https://nengyi1024.github.io/HexoBlog/2022/02/10/%E5%9F%9F%E5%90%8D%E5%95%8F%E9%A1%8C/"/>
+    <id>https://nengyi1024.github.io/HexoBlog/2022/02/10/%E5%9F%9F%E5%90%8D%E5%95%8F%E9%A1%8C/</id>
+    <published>2022-02-10T14:41:47.000Z</published>
+    <updated>2022-02-10T14:41:47.589Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>前後端更新</title>
     <link href="https://nengyi1024.github.io/HexoBlog/2022/02/03/%E5%89%8D%E5%BE%8C%E7%AB%AF%E6%9B%B4%E6%96%B0/"/>
     <id>https://nengyi1024.github.io/HexoBlog/2022/02/03/%E5%89%8D%E5%BE%8C%E7%AB%AF%E6%9B%B4%E6%96%B0/</id>
     <published>2022-02-03T13:23:57.000Z</published>
-    <updated>2022-02-10T11:53:18.912Z</updated>
+    <updated>2022-02-10T14:49:02.633Z</updated>
     
     
     <summary type="html">會員常見問題處理</summary>
@@ -31,11 +65,15 @@
     <category term="工作" scheme="https://nengyi1024.github.io/HexoBlog/categories/%E5%B7%A5%E4%BD%9C/"/>
     
     
-    <category term="Jenkins" scheme="https://nengyi1024.github.io/HexoBlog/tags/Jenkins/"/>
+    <category term="常見" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%B8%B8%E8%A6%8B/"/>
+    
+    <category term="平台更新" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%B9%B3%E5%8F%B0%E6%9B%B4%E6%96%B0/"/>
     
     <category term="Bopay-payment" scheme="https://nengyi1024.github.io/HexoBlog/tags/Bopay-payment/"/>
     
     <category term="Bochat" scheme="https://nengyi1024.github.io/HexoBlog/tags/Bochat/"/>
+    
+    <category term="Qubo" scheme="https://nengyi1024.github.io/HexoBlog/tags/Qubo/"/>
     
   </entry>
   
@@ -63,7 +101,7 @@
     <link href="https://nengyi1024.github.io/HexoBlog/2021/12/13/PHP%E5%B8%B8%E7%94%A8%E5%87%BD%E5%BC%8F/"/>
     <id>https://nengyi1024.github.io/HexoBlog/2021/12/13/PHP%E5%B8%B8%E7%94%A8%E5%87%BD%E5%BC%8F/</id>
     <published>2021-12-13T09:14:22.000Z</published>
-    <updated>2021-12-14T09:59:07.002Z</updated>
+    <updated>2022-02-10T14:22:51.795Z</updated>
     
     
     <summary type="html">php常用函數</summary>
@@ -72,12 +110,6 @@
     
     <category term="php" scheme="https://nengyi1024.github.io/HexoBlog/categories/php/"/>
     
-    
-    <category term="前端" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="web" scheme="https://nengyi1024.github.io/HexoBlog/tags/web/"/>
-    
-    <category term="後端" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%BE%8C%E7%AB%AF/"/>
     
     <category term="php" scheme="https://nengyi1024.github.io/HexoBlog/tags/php/"/>
     
@@ -107,7 +139,7 @@
     <link href="https://nengyi1024.github.io/HexoBlog/2021/12/07/Vue3%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/"/>
     <id>https://nengyi1024.github.io/HexoBlog/2021/12/07/Vue3%E4%BD%BF%E7%94%A8%E7%AD%86%E8%A8%98/</id>
     <published>2021-12-07T07:05:30.000Z</published>
-    <updated>2021-12-10T09:30:30.657Z</updated>
+    <updated>2022-02-10T14:51:33.091Z</updated>
     
     
     <summary type="html">Vue3改版寫法</summary>
@@ -117,15 +149,7 @@
     <category term="vue" scheme="https://nengyi1024.github.io/HexoBlog/categories/vue/"/>
     
     
-    <category term="前端" scheme="https://nengyi1024.github.io/HexoBlog/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="web" scheme="https://nengyi1024.github.io/HexoBlog/tags/web/"/>
-    
-    <category term="vue.js" scheme="https://nengyi1024.github.io/HexoBlog/tags/vue-js/"/>
-    
     <category term="vue3" scheme="https://nengyi1024.github.io/HexoBlog/tags/vue3/"/>
-    
-    <category term="vue cli" scheme="https://nengyi1024.github.io/HexoBlog/tags/vue-cli/"/>
     
   </entry>
   
@@ -134,7 +158,7 @@
     <link href="https://nengyi1024.github.io/HexoBlog/2021/11/20/ES6-ES12%E4%BB%8B%E7%B4%B9/"/>
     <id>https://nengyi1024.github.io/HexoBlog/2021/11/20/ES6-ES12%E4%BB%8B%E7%B4%B9/</id>
     <published>2021-11-20T09:33:51.000Z</published>
-    <updated>2021-12-13T09:28:07.311Z</updated>
+    <updated>2022-02-10T14:22:40.485Z</updated>
     
     
     <summary type="html">ES6~ES12各本版新增介紹</summary>
@@ -143,8 +167,6 @@
     
     <category term="javascript" scheme="https://nengyi1024.github.io/HexoBlog/categories/javascript/"/>
     
-    
-    <category term="web" scheme="https://nengyi1024.github.io/HexoBlog/tags/web/"/>
     
     <category term="javascript" scheme="https://nengyi1024.github.io/HexoBlog/tags/javascript/"/>
     
