@@ -88,6 +88,34 @@
 
   
   <url>
+    <loc>https://nengyi1024.github.io/HexoBlog/tags/python/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nengyi1024.github.io/HexoBlog/tags/Jenkins/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nengyi1024.github.io/HexoBlog/tags/Bopay-payment/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nengyi1024.github.io/HexoBlog/tags/Bochat/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nengyi1024.github.io/HexoBlog/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-02-10</lastmod>
     <changefreq>daily</changefreq>
@@ -117,34 +145,6 @@
   
   <url>
     <loc>https://nengyi1024.github.io/HexoBlog/tags/vue-cli/</loc>
-    <lastmod>2022-02-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/tags/python/</loc>
-    <lastmod>2022-02-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/tags/Jenkins/</loc>
-    <lastmod>2022-02-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/tags/Bopay-payment/</loc>
-    <lastmod>2022-02-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/tags/Bochat/</loc>
     <lastmod>2022-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -188,13 +188,6 @@
 
   
   <url>
-    <loc>https://nengyi1024.github.io/HexoBlog/categories/vue/</loc>
-    <lastmod>2022-02-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://nengyi1024.github.io/HexoBlog/categories/python/</loc>
     <lastmod>2022-02-10</lastmod>
     <changefreq>daily</changefreq>
@@ -203,6 +196,13 @@
   
   <url>
     <loc>https://nengyi1024.github.io/HexoBlog/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nengyi1024.github.io/HexoBlog/categories/vue/</loc>
     <lastmod>2022-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
